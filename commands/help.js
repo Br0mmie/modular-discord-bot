@@ -15,6 +15,6 @@ module.exports.help = function (message) {
       .addField(" - google", "Get a google search URL! (Correct usage: !google [search terms])")
       .addField(" - youtube", "Get a youtube search URL! (Correct usage: !youtube [search terms])")
       .setColor(0xFFA500)
-      .setFooter("If you have questions feel free to contact and admin on the server! :grin:")
+      .setFooter("If you have questions feel free to contact and admin on the server! :grin: Made by Br0mZ!")
     message.channel.send(embedhelpmember);
 };

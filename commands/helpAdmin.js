@@ -8,6 +8,6 @@ module.exports.helpAdmin = function (message) {
     .addField(" - unmute", "Unmutes a muted player (Correct usage: !unmute @username)")
     .addField(" - kick", "Kicks a desired member with a reason (Correct usage: !kick @username [reason])")
     .setColor(0xFF0000)
-    .setFooter("Ooo, an admin!")
+    .setFooter("Ooo, an admin! Made by Br0mZ!")
   message.channel.send(embedhelpadmin);
 }
