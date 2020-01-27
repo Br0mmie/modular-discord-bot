@@ -1,1 +1,1 @@
-This is the modular discord bot repo
+This is the modular discord bot repo.
